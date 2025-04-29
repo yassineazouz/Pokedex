@@ -19,7 +19,7 @@ Il permet de rechercher des Pokémon par nom ou ID, et de les enregistrer locale
 
 ```bash
 git clone https://github.com/yassineazouz/Pokedex
-cd pokedex-cli
+cd Pokedex
 ```
 
 2. Installe les dépendances :
